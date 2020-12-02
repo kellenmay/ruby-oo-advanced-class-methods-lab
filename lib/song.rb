@@ -4,7 +4,6 @@ class Song
 
   def inintialize 
     @save = save
-
   end
 
   def self.all
